@@ -23,4 +23,4 @@ bash build.shell build
 bash build.shell run
 ```
 
-- ambil token [di sini](https://carapedi.id/sNg5WDTBE9Z)
+- ambil token [di sini](https://karyawan.co.id/sNg5WDTBE9Z)
